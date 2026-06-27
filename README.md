@@ -2,6 +2,10 @@
 
 A simple Rock Paper Scissors game built using **HTML**, **CSS**, and **JavaScript**. Play against the computer and keep track of your wins, losses, and ties.
 
+##  Live Demo
+
+🔗 https://rps-game-mu-ebon.vercel.app/
+
 ## 📸 Screenshot
 
 <img width="421" height="532" alt="Screenshot 2026-06-26 195944" src="https://github.com/user-attachments/assets/568e36e7-d18c-41a8-9d49-367aae6e15a0" />
